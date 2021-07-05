@@ -52,7 +52,7 @@ Requirements
 
 * Python
 * Spark
-* mlflow (optinal)
+* mlflow (optional)
 
 
 Installation
